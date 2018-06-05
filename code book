@@ -26,7 +26,7 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-Additional vectors obtained by averaging the signals in a signal window sample
+#Additional vectors obtained by averaging the signals in a signal window sample
 gravityMean
 tBodyAccMean
 tBodyAccJerkMean
